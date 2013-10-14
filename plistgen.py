@@ -27,7 +27,6 @@ def main():
     optparser.add_option('--ipa', '-i', dest='ipa')
     optparser.add_option('--icnsmall', '-m', dest='icnsmall')
     optparser.add_option('--icnlarge', '-l', dest='icnlarge')
-    optparser.add_option('--acl', '-a', dest='acl')
     optparser.add_option('--identifier', '-d', dest='identifier')
     optparser.add_option('--title', '-t', dest='title')
     optparser.add_option('--subtitle', '-u', dest='subtitle')
