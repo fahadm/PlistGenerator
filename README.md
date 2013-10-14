@@ -12,14 +12,25 @@ Creates a simple plist file for enterprise publishing
 
 Options:
   --version             show program's version number and exit
+
+ 
   -h, --help            show this help message and exit
+ 
+ 
   -s SERVER, --server=SERVER
+ 
   -i IPA, --ipa=IPA     
+ 
   -m ICNSMALL, --icnsmall=ICNSMALL
+ 
   -l ICNLARGE, --icnlarge=ICNLARGE
+ 
   -d IDENTIFIER, --identifier=IDENTIFIER
+ 
   -t TITLE, --title=TITLE
+ 
   -u SUBTITLE, --subtitle=SUBTITLE
+ 
   -f OUTPUTFILE, --outfile=OUTPUTFILE
 
 
